@@ -6,4 +6,4 @@
 
 1. Standardizing the url for delete account section across all websites using a **Well-Known URI** like [/delete-account][deleteacc] for easy access. It can then be used by various tools like password managers to programatically open `delete account` page.
 
-[deleteacc]: ../main/delete-account.md
+[deleteacc]: ./delete-account.md
